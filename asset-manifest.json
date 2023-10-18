@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ALT-Project-Home/static/css/main.30d806b7.css",
-    "main.js": "/ALT-Project-Home/static/js/main.74f9bede.js",
+    "main.css": "/ALT-Project-Home/static/css/main.83ec824a.css",
+    "main.js": "/ALT-Project-Home/static/js/main.e7a322e0.js",
     "static/js/787.348b95af.chunk.js": "/ALT-Project-Home/static/js/787.348b95af.chunk.js",
     "static/media/october-special-sep2023_desktop.png": "/ALT-Project-Home/static/media/october-special-sep2023_desktop.5ad5fda7ad8e8790f9ba.png",
     "static/media/home-page-alt-building.jpg": "/ALT-Project-Home/static/media/home-page-alt-building.c4d5fc44e7809535e0b1.jpg",
@@ -12,12 +12,12 @@
     "static/media/home-page-graphene-23.jpg": "/ALT-Project-Home/static/media/home-page-graphene-23.221a1f81da0fa2525749.jpg",
     "static/media/award.jpg": "/ALT-Project-Home/static/media/award.158916acf07b9699f3f1.jpg",
     "index.html": "/ALT-Project-Home/index.html",
-    "main.30d806b7.css.map": "/ALT-Project-Home/static/css/main.30d806b7.css.map",
-    "main.74f9bede.js.map": "/ALT-Project-Home/static/js/main.74f9bede.js.map",
+    "main.83ec824a.css.map": "/ALT-Project-Home/static/css/main.83ec824a.css.map",
+    "main.e7a322e0.js.map": "/ALT-Project-Home/static/js/main.e7a322e0.js.map",
     "787.348b95af.chunk.js.map": "/ALT-Project-Home/static/js/787.348b95af.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.30d806b7.css",
-    "static/js/main.74f9bede.js"
+    "static/css/main.83ec824a.css",
+    "static/js/main.e7a322e0.js"
   ]
 }
