@@ -6,10 +6,10 @@ function ThreeBlocks() {
     <div className='container_3_blocks'>
       <div className='col_1'><img src={FeaturedPool} alt="ALT" />
 
-        <p>Aqua Technics has been manufacturing award-winning fibreglass swimming pools for over 47 years. We have been a family owned and operated company since we first began. </p>
+        <p>Find out why Saint-Remy is the best pool for you!</p>
         <div className='line-button read_bt'><a href="#">Read more</a></div>
       </div>
-      <div className='col_2'><h3>Pool Planner</h3><p>Aqua Technics has been manufacturing award-winning fibreglass swimming pools for over 47 years. We have been a family owned and operated company since we first began. </p>
+      <div className='col_2'><h3>Pool Planner</h3><p>Our Pool Planner gives you the opportunity to plan your pool to perfectly fit the size, shape and style of your backyard. </p>
         <div className='line-button read_bt'><a href="#">Read more</a></div></div>
       <div className='col_3'><img src={FeaturedPool} alt="ALT" />
 
