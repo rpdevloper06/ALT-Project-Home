@@ -1,0 +1,51 @@
+.container_3_blocks {
+    display: flex;
+    margin : auto;
+
+    margin: 30px 0;
+}
+
+.col_1,
+.col_3 {
+
+    width: 25%;
+}
+
+.col_2 {
+    background     : url(../img/home-page-planner-bigger-bg-23.jpg) no-repeat;
+    background-size: cover;
+    width          : 50%;
+    margin         : 0 20px;
+}
+
+.col_1 {
+    outline       : solid 1px #ccc;
+    outline-offset: -2px;
+    padding       : 20px;
+    text-align    : center;
+}
+
+.col_2 {
+
+    padding   : 110px;
+    text-align: center;
+
+
+}
+
+.col_2 h3 {
+    padding: 30px 0;
+}
+
+
+.col_3 {
+    outline       : solid 1px #ccc;
+    outline-offset: -2px;
+    padding       : 20px;
+    text-align    : center;
+}
+
+
+.read_bt a {
+    width: 40% ! important;
+}

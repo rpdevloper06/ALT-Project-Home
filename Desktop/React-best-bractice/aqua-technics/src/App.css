@@ -1,0 +1,45 @@
+* {
+  margin : 0;
+  padding: 0;
+
+}
+
+.container {
+  background: #ffffff !important;
+
+  height: auto;
+  width : 1147px;
+  margin: auto;
+}
+
+.award {
+  background: #0e2a4b !important;
+  display   : flex;
+
+
+}
+
+.award h2 {
+  color      : #fff ! important;
+  font-size  : 26px;
+  font-weight: 600 !important;
+  padding    : 35px 35px 35px 150px;
+  text-align : right;
+  text-align : left;
+  margin-left: 50px;
+}
+
+.award img {
+  width: 20%;
+}
+
+.line-button a {
+  display        : block;
+  border         : 1px solid #01294c;
+  color          : #01294c !important;
+  text-align     : center;
+  padding        : 6px;
+  width          : 20%;
+  text-decoration: navajowhite;
+  margin         : 15px auto;
+}

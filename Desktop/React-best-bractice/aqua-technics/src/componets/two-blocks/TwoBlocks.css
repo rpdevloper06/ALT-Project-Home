@@ -1,0 +1,33 @@
+*{
+color:#404040 ! important;
+}
+.container_2_blocks{
+
+    margin-bottom:30px;
+    display: flex;
+}
+
+.left_col,
+.right_col{
+width:50%;
+
+text-align:center;
+}
+
+.left_col img{
+    padding-top:15px;
+}
+
+.left_col h3{
+padding:10px;
+}
+
+.left_col p{
+    padding:10px 30px 0 30px;
+    }
+
+.left_col{
+
+outline: solid 1px #ccc;
+     outline-offset: -2px;
+}

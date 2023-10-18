@@ -1,0 +1,23 @@
+.range-bar li {
+    display: inline-block;
+    margin    : 0 10px;
+
+}
+
+.range-bar li a{
+color:#fff ! important;
+text-decoration: none;
+background: #01294c !important;
+color     : #fff;
+padding: 10px 15px;
+}
+
+.range-bar li a:hover{
+   
+    background: #01294cb6 !important;
+}
+
+.range-bar {
+    margin    : 35px auto;
+    text-align: center;
+}
